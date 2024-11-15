@@ -1,0 +1,9 @@
+img{
+    height: 300px;
+    margin: 0;
+    align-self:center ;
+}
+.container{
+    border: 2px black solid;
+    width: 280px;
+}
