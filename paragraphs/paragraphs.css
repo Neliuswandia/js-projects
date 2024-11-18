@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    gap: 50px;
+}
+button{
+    height: 300px;
+    margin-top: 18px;
+    width: 700px;
+    /* width: auto; */
+}
+p{
+    /* display: none; */
+    border: 1px solid #000;
+    height: 300px;
+    width: 500px;
+}
