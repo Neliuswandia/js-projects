@@ -4,10 +4,13 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
+body.dark-mode{
+
+}
 .container{
     width: 100%;
     min-height: 100vh;
-    background-color: #05090b;
+    background-color: #374348;
     padding: 10px;
 }
 .todo-app{
@@ -48,7 +51,7 @@
     border-radius: 30px;
     border: none;
     outline: none;
-    background-color: rgb(55, 134, 236);
+    background-color: #3786ec;
     color: #fff;
     font-size: 16px;
 }  
