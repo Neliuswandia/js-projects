@@ -5,7 +5,12 @@
     box-sizing: border-box;
 }
 body.dark-mode{
-
+    background-color: #263238;
+    color: #ece8e8;
+}
+.todo-app.dark-mode{
+    background-color: #4f5253;
+    color: #ece8e8;
 }
 .container{
     width: 100%;
@@ -55,6 +60,15 @@ body.dark-mode{
     color: #fff;
     font-size: 16px;
 }  
+.toggleMode img{
+    padding: 16px 50px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    /* background-color: #3786ec; */
+    /* color: #fff; */
+    font-size: 16px;
+}
 ul li {
     list-style: none;
     font-size: 15px;
